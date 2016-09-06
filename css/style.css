@@ -1,0 +1,13 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-image: url('/../img/s-logo.svg');
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 80% 80%;
+}
