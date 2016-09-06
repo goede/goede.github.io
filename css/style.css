@@ -9,5 +9,5 @@ body {
     background-image: url('/../img/s-logo.svg');
     background-repeat: no-repeat;
     background-position: 50%;
-    background-size: 80% 80%;
+    background-size: auto 80%;
 }
